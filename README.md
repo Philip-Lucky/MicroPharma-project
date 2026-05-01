@@ -1,21 +1,19 @@
-[![DeepSource](https://app.deepsource.com/gh/KOSASIH/Microfarma.svg/?label=active+issues&show_trend=true&token=bpt5vXJxse-pFKEu-hVk883H)](https://app.deepsource.com/gh/KOSASIH/Microfarma/?ref=repository-badge)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Microfarma/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Microfarma/tree/main)
 
-# Microfarma - Healthcare Microservice Supply Chain System
+# MicroPharma - Healthcare Microservice Supply Chain System
 
-Microfarma is a healthcare microservice supply chain system that aims to revolutionize the pharmaceutical industry by leveraging microservices architecture and modern technologies. It is designed to streamline and optimize the process of supplying pharmaceutical products, ensuring efficient distribution and delivery of medicines to healthcare providers and patients.
+MicroPharma is a modern healthcare supply chain platform built on a microservices architecture. It reimagines how pharmaceutical products move from manufacturers to end users by introducing scalable, modular services and up-to-date technologies. The system is designed to simplify operations, improve coordination, and enhance the efficiency of medicine distribution—ensuring that healthcare providers and patients receive timely and reliable access to essential drugs.
 
 ## Key Features
 
-1. **Microservice Architecture:** Microfarma follows a modular approach, where different functionalities are divided into independent microservices. This allows for scalability, flexibility, and easy maintenance of the system.
+1. **Microservice Architecture:** MicroPharma follows a modular approach, where different functionalities are divided into independent microservices. This allows for scalability, flexibility, and easy maintenance of the system.
 
 2. **Supplier Management:** The system provides comprehensive supplier management capabilities, enabling efficient collaboration and communication with pharmaceutical suppliers. It allows suppliers to register, manage their product catalogs, and track inventory levels.
 
-3. **Inventory Management:** Microfarma includes a robust inventory management module that enables tracking and monitoring of pharmaceutical products across the supply chain. It provides real-time visibility into stock levels, expiration dates, and batch numbers, ensuring optimal inventory control.
+3. **Inventory Management:** MicroPharma includes a robust inventory management module that enables tracking and monitoring of pharmaceutical products across the supply chain. It provides real-time visibility into stock levels, expiration dates, and batch numbers, ensuring optimal inventory control.
 
 4. **Order Processing:** The platform facilitates seamless order processing, from healthcare providers placing orders to suppliers fulfilling them. It supports order tracking, status updates, and notifications, ensuring timely and accurate delivery of pharmaceutical products.
 
-5. **Delivery Tracking:** Microfarma incorporates a delivery tracking system that enables healthcare providers and patients to monitor the status of their orders. It integrates with logistics providers and provides real-time updates on shipment progress, enhancing transparency and customer satisfaction.
+5. **Delivery Tracking:** MicroPharma incorporates a delivery tracking system that enables healthcare providers and patients to monitor the status of their orders. It integrates with logistics providers and provides real-time updates on shipment progress, enhancing transparency and customer satisfaction.
 
 6. **Quality Control:** The system incorporates quality control mechanisms to ensure compliance with regulatory standards and safety requirements. It enables tracking and tracing of products, verification of authenticity, and monitoring of product quality throughout the supply chain.
 
@@ -39,73 +37,26 @@ Microfarma leverages cutting-edge technologies and frameworks to provide a scala
 
 - **Frontend Framework:** A modern frontend framework like React or Angular is used to build the user interface, providing a rich and interactive experience for healthcare providers, suppliers, and other stakeholders.
 
-- **DevOps Tools:** Continuous integration and deployment are facilitated using DevOps tools like Jenkins or GitLab CI/CD, ensuring efficient development, testing, and deployment of the system.
+- **DevOps Tools:** Continuous integration and deployment are facilitated using DevOps ensuring efficient development, testing, and deployment of the system.
 
 ## Installation and Setup
 
 Detailed installation and setup instructions for Microfarma can be found in the project's documentation. It includes steps for deploying the microservices, configuring the system, and integrating with external services, such as logistics providers and databases.
 
-## Contributing
-
-Contributions to Microfarma are welcome! If you would like to contribute, please follow the guidelines outlined in the project's repository, including code style, documentation standards, and the pull request process.
 
 ## License
 
-Microfarma is released under the [MIT License](https://github.com/KOSASIH/Microfarma/blob/main/LICENSE). You are free to use, modify, and distribute the software according to the terms of the license.
+Microfarma is released under the [MIT License](https://github.com/KOSASIH/Microfarma/blob/main/LICENSE). 
 
-## Support
-
-For any questions, issues, or support related to Microfarma, please refer to the project's repository and open a new issue. The development team will be happy to assist you.
 
 ## Acknowledgments
 
-Microfarma is developed by a dedicated team of healthcare and technology professionals who are passionate about improving the pharmaceutical supply chain. We would like to express our gratitude to the open-source community for their invaluable contributions and inspiration.
-
-## System Requirements
-
-List the minimum system requirements for running Microfarma. Include details such as the operating system, hardware specifications, and software dependencies.
-
-## Deployment
-
-Provide step-by-step instructions on how to deploy Microfarma in a production or development environment. Include information on configuring the microservices, setting up databases, and any additional setup required.
-
-## Usage
-
-Explain how to use Microfarma from the perspective of different users. Provide examples and instructions for common tasks such as placing an order, managing inventory, and generating reports.
+MicroPharma is developed by a dedicated team of healthcare and technology professionals who are passionate about improving the pharmaceutical supply chain. 
 
 ## API Documentation
 
-If Microfarma exposes APIs for integration with other systems, provide comprehensive documentation for the available endpoints, request/response formats, and authentication mechanisms. Consider using tools like Swagger or Postman to generate and display API documentation.
+If MicroPharma exposes APIs for integration with other systems, provide comprehensive documentation for the available endpoints, request/response formats, and authentication mechanisms. Consider using tools like Swagger or Postman to generate and display API documentation.
 
-## Troubleshooting
-
-List common issues that users may encounter while using Microfarma and provide solutions or workarounds for each problem. Include information on how to troubleshoot common errors and where to find additional support.
-
-## Roadmap
-
-Outline the future development plans for Microfarma. Provide information on upcoming features, enhancements, and bug fixes. This gives users and contributors insights into the project's direction and encourages collaboration.
-
-## Changelog
-
-Document the changes and improvements made in each release of Microfarma. Include details about bug fixes, new features, and notable enhancements. This helps users and contributors keep track of the project's evolution.
-
-## Contributing Guidelines
-
-Provide guidelines for contributing to the Microfarma project. Include information on how to set up a development environment, coding standards, and the process for submitting pull requests. Specify any contribution guidelines or templates to follow.
-
-## Authors
-
-List the names or usernames of the core development team members who have contributed significantly to the Microfarma project. Provide links to their profiles or contact information.
-
-## Related Projects
-
-If there are any related projects or dependencies that Microfarma relies on or integrates with, mention them in this section. Provide links to their repositories or documentation for further reference.
-
-## Resources
-
-Include a list of external resources such as articles, tutorials, or documentation that can help users better understand Microfarma and its underlying technologies.
-
-Remember to update the README regularly to reflect any changes, updates, or new information about Microfarma. A well-maintained and comprehensive README can greatly benefit users, contributors, and the overall success of the project.
 
 ## Project Structure
 
@@ -364,7 +315,7 @@ sonar.password=admin
 
 For more information, refer to the [Code quality page][].
 
-## Using Docker to simplify development (optional)
+## Using Docker to simplify development
 
 You can use Docker to improve your JHipster development experience. A number of docker-compose configuration are available in the [src/main/docker](src/main/docker) folder to launch required third party services.
 
@@ -403,7 +354,7 @@ When running Docker Desktop on MacOS Big Sur or later, consider enabling experim
 
 For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`jhipster docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
 
-## Continuous Integration (optional)
+## Continuous Integration 
 
 To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
 
@@ -430,4 +381,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Swagger-Editor]: https://editor.swagger.io
 [Doing API-First development]: https://www.jhipster.tech/documentation-archive/v8.0.0-beta.1/doing-api-first-development/
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Microfarma">Microfarma</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
